@@ -1,4 +1,4 @@
-# nextjs-ts-tailwind
+# nextjs-ts-tailwind-starter
 
 This is a [NextJS](https://nextjs.org/) starter template based off [`create-next-app`](https://nextjs.org/docs/api-reference/create-next-app), including:
 
